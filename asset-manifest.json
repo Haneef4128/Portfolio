@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.82c42ecc.css",
+    "main.js": "/Portfolio/static/js/main.7963bcda.js",
+    "static/js/453.acca0757.chunk.js": "/Portfolio/static/js/453.acca0757.chunk.js",
+    "static/media/About.jpg": "/Portfolio/static/media/About.5b66434fa5f084111e3c.jpg",
+    "static/media/Home_bg1.jpg": "/Portfolio/static/media/Home_bg1.5b66434fa5f084111e3c.jpg",
+    "static/media/Project.jpg": "/Portfolio/static/media/Project.c52c40dbb0748b88714f.jpg",
+    "static/media/Bearded.jpg": "/Portfolio/static/media/Bearded.cd04d0b917c3bcc76010.jpg",
+    "static/media/Person.png": "/Portfolio/static/media/Person.1dba59af1a33c5089706.png",
+    "static/media/MdHaneef_Resume.pdf": "/Portfolio/static/media/MdHaneef_Resume.30ff59c0a4a20e0dbe95.pdf",
+    "static/media/Project4.png": "/Portfolio/static/media/Project4.144d7f2e9a728440dd54.png",
+    "static/media/Haneef_Logo3.png": "/Portfolio/static/media/Haneef_Logo3.3b80f0fcdd9f84a7b329.png",
+    "static/media/Project3.png": "/Portfolio/static/media/Project3.a98f60ae92d441d510ef.png",
+    "static/media/Project2.png": "/Portfolio/static/media/Project2.ba490d8495c6ceb7a6c8.png",
+    "static/media/Project1.png": "/Portfolio/static/media/Project1.417cf46c09ce114aa883.png",
+    "index.html": "/Portfolio/index.html",
+    "main.82c42ecc.css.map": "/Portfolio/static/css/main.82c42ecc.css.map",
+    "main.7963bcda.js.map": "/Portfolio/static/js/main.7963bcda.js.map",
+    "453.acca0757.chunk.js.map": "/Portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82c42ecc.css",
+    "static/js/main.7963bcda.js"
+  ]
+}
